@@ -3,6 +3,9 @@ RENCANA BELAJAR LUSY
 - Phyton
   * Database
   * Variabel
+     ^ LOOPING
+     ^ WHILE LOOP
 - Struktur Aljabar Dasar
 - GIT & GITHUB
 - ONMIPA
+-MAGDAY
