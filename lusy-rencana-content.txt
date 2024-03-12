@@ -3,5 +3,6 @@ RENCANA BELAJAR LUSY
 - Phyton
   * Database
   * Variabel
+- Struktur Aljabar Dasar
 - GIT & GITHUB
 - ONMIPA
