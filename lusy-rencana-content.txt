@@ -1,5 +1,7 @@
 RENCANA BELAJAR LUSY
 
 - Phyton
+  * Database
+  * Variabel
 - GIT & GITHUB
 - ONMIPA
