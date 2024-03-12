@@ -4,6 +4,7 @@ RENCANA BELAJAR LUSY
   * Database
   * Variabel
      ^ LOOPING
+     ^ WHILE LOOP
 - Struktur Aljabar Dasar
 - GIT & GITHUB
 - ONMIPA
