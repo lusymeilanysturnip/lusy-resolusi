@@ -1,0 +1,4 @@
+LUSY RESOLUSI
+- Konsisten belajar data science 5 jam sehari
+- Membuat platform untuk perhitungan logaritma
+- Membuat forum diskusi mengenai program MBKM
